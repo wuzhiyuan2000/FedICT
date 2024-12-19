@@ -2,7 +2,7 @@
 
 This repository is the official Pytorch implementation DEMO of **FedICT**:
 
-[**FedICT: Federated Multi-task Distillation for Multi-access Edge Computing**.](FedICT: Federated Multi-task Distillation for Multi-access Edge Computing) *IEEE Transactions on Parallel and Distributed Systems (TPDS)*. 2024
+[**FedICT: Federated Multi-task Distillation for Multi-access Edge Computing**.](https://ieeexplore.ieee.org/abstract/document/10163770/) *IEEE Transactions on Parallel and Distributed Systems (TPDS)*. 2024
 
 -------
 ## Run this DEMO
